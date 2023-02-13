@@ -1,3 +1,2 @@
-Record=TopLevelDocument|FileName=Debugger.SchDoc|SheetNumber=3
-Record=NoMainPathDocument|SourceDocument=Debugger.SchDoc|FileName=Main.SchDoc|SheetNumber=2
-Record=NoMainPathDocument|SourceDocument=Debugger.SchDoc|FileName=Power.SchDoc|SheetNumber=1
+Record=TopLevelDocument|FileName=Main.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=Main.SchDoc|FileName=Power.SchDoc|SheetNumber=2

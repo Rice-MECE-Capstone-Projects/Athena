@@ -1,6 +1,12 @@
 # ELEC594 Capstone Project Athena
 
-<img src="./assets/image-20230208013856441.png" alt="image-20230208013856441" style="zoom:50%;" />
+- Main board
+
+<img src="./assets/image-20230212215239997.png" alt="image-20230212215239997" style="zoom:50%;" />
+
+- ESP32 board
+
+<img src="./assets/image-20230212220123367.png" alt="image-20230212220123367" style="zoom:50%;" />
 
 - A RISC-V microcontroller board
 - Vey similar to HiFive1 board(https://www.sifive.com/boards/hifive1)
@@ -28,6 +34,3 @@
 
 🗒️Documentation
 
-
-
-Feel free to give suggestions and ideas!
