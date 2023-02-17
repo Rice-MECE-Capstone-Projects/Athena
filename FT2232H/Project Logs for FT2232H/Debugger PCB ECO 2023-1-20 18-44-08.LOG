@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=JP? Old Footprint=XH2.54-LI-6P New Footprint=HDR2.54-LI-6P
+Added Member To Class: ClassName=Debugger Member=Component JP? HDR-1X4
+Added Member To Class: ClassName=Debugger Member=Component R? 0

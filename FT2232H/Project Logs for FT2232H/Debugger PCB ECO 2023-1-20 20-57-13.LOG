@@ -1,0 +1,48 @@
+Added Component: Designator=C21(C0603_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系卖家，免费查找封装"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=IC1(SOP8_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "外置EEPROM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系卖家 免费查找封装"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=R4(R0603_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系卖家，免费查找封装"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=R6(R0603_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系卖家，免费查找封装"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=R8(R0603_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系卖家，免费查找封装"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=R9(R0603_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系卖家，免费查找封装"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V3 Pin=C21-1
+Added Pin To Net: NetName=GND Pin=C21-2
+Added Pin To Net: NetName=GND Pin=IC1-5
+Added Pin To Net: NetName=3V3 Pin=IC1-6
+Added Pin To Net: NetName=GND Pin=IC1-7
+Added Pin To Net: NetName=3V3 Pin=IC1-8
+Added Pin To Net: NetName=3V3 Pin=R4-2
+Added Pin To Net: NetName=3V3 Pin=R6-2
+Added Pin To Net: NetName=3V3 Pin=R8-2
+Added Pin To Net: NetName=NetIC1_1 Pin=IC1-1
+Added Pin To Net: NetName=NetIC1_1 Pin=R4-1
+Added Pin To Net: NetName=NetIC1_1 Pin=U2-63
+Added Net: Name=NetIC1_1
+Added Pin To Net: NetName=NetIC1_3 Pin=IC1-3
+Added Pin To Net: NetName=NetIC1_3 Pin=R8-1
+Added Pin To Net: NetName=NetIC1_3 Pin=R9-1
+Added Pin To Net: NetName=NetIC1_3 Pin=U2-61
+Added Net: Name=NetIC1_3
+Added Pin To Net: NetName=NetIC1_4 Pin=IC1-4
+Added Pin To Net: NetName=NetIC1_4 Pin=R9-2
+Added Net: Name=NetIC1_4
+Added Pin To Net: NetName=NetR6_1 Pin=R6-1
+Added Pin To Net: NetName=NetR6_1 Pin=U2-62
+Added Net: Name=NetR6_1
+Added Member To Class: ClassName=Debugger Member=Component C21 100nF
+Added Member To Class: ClassName=Debugger Member=Component IC1 93C46
+Added Member To Class: ClassName=Debugger Member=Component R4 100K
+Added Member To Class: ClassName=Debugger Member=Component R6 100K
+Added Member To Class: ClassName=Debugger Member=Component R8 100K
+Added Member To Class: ClassName=Debugger Member=Component R9 2.2K

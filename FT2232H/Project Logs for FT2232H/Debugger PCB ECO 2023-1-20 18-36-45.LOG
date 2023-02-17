@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=3V3 Pin=Q1-1
+Removed Member From Class: ClassName=Debugger Member=Q1
+Added Component: Designator=C?(C0603_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系卖家，免费查找封装"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=SW?(SW SMD-3*6*2.5)
+Add component (AddParameter): Name = "BOM名称"; Value = "3x6轻触开关"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装库来自淘宝卖家ID：黄晶宝石"; Value = "其他店铺购入的，请立即申请退款，本店现金奖励20~500元"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系卖家，免费查找封装"; Value = "唯一出售店铺网址https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=SW?-1
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=R7-1
+Added Pin To Net: NetName=NetC?_2 Pin=SW?-2
+Added Pin To Net: NetName=NetC?_2 Pin=U2-14
+Added Net: Name=NetC?_2
+Added Member To Class: ClassName=Debugger Member=Component C? 10uF
+Added Member To Class: ClassName=Debugger Member=Component SW? 3x6x5

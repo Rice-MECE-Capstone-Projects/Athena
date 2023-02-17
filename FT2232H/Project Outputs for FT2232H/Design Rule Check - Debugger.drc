@@ -1,0 +1,26 @@
+Protel Design System Design Rule Check
+PCB File : D:\Projects\Athena\FT2232H\FT2232H\Debugger.PcbDoc
+Date     : 2023/1/20
+Time     : 19:40:20
+
+Processing Rule : Clearance Constraint (Gap=8mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+   Violation between Un-Routed Net Constraint: Net USB_D_P Between Track (-1143.82mil,479.257mil)(-1142.036mil,481.041mil) on Top Layer And Pad USBC1-A6(-1133.82mil,518.628mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net USB_D_N Between Track (-1143.88mil,498.942mil)(-1142.1mil,497.162mil) on Top Layer And Pad USBC1-B7(-1133.893mil,538.317mil) on Top Layer 
+Rule Violations :2
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+
+Violations Detected : 2
+Waived Violations : 0
+Time Elapsed        : 00:00:01
