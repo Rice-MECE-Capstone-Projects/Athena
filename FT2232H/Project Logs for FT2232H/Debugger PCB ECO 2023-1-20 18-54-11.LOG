@@ -1,9 +1,0 @@
-Change Component Designator: OldDesignator=C? NewDesignator=C20
-Change Component Designator: OldDesignator=JP? NewDesignator=JP1
-Change Component Designator: OldDesignator=R? NewDesignator=R2
-Change Component Designator: OldDesignator=R? NewDesignator=R3
-Change Component Designator: OldDesignator=SW? NewDesignator=SW1
-Change Net Name : Old Net Name=NetC?_2 New Net Name=NetC20_2
-Change Net Name : Old Net Name=NetJP?_1 New Net Name=NetJP1_1
-Added Member To Class: ClassName=Debugger Member=Component JP1 HDR-1X10
-Added Member To Class: ClassName=Debugger Member=Component R3 0

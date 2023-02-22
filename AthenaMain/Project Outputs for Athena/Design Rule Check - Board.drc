@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
-PCB File : G:\Athena_V1_0\AthenaMain\Board.PcbDoc
-Date     : 2023/2/15
-Time     : 22:19:20
+PCB File : G:\电子技术研究\[2023.1]Athena Microcontroller\AthenaMain\Board.PcbDoc
+Date     : 2023/2/22
+Time     : 0:10:44
 
 Processing Rule : Clearance Constraint (Gap=0.203mm) (All),(All)
 Rule Violations :0
@@ -21,4 +21,4 @@ Rule Violations :0
 
 Violations Detected : 0
 Waived Violations : 0
-Time Elapsed        : 00:00:02
+Time Elapsed        : 00:00:01
