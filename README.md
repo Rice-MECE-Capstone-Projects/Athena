@@ -2,10 +2,6 @@
 
 🔨This is the repository of Rice University ECE Master's program 2023 Athena capstone project
 
-## Table of Context
-
-[TOC]
-
 ## Background
 
 Athena is a development board based on Sifive's RISC V microcontroller FE310, which is pin compatible with Click Board([https://www.mikroe.com/click](https://www.mikroe.com/click)) and can be used for undergraduate teaching, experiments.
