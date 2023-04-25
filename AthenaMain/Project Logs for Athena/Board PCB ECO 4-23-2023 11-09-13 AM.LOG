@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=3V3 Pin=C43-1
+Removed Pin From Net: NetName=GND Pin=C43-2
+Removed Pin From Net: NetName=GND Pin=IC3-5
+Removed Pin From Net: NetName=3V3 Pin=IC3-6
+Removed Pin From Net: NetName=GND Pin=IC3-7
+Removed Pin From Net: NetName=3V3 Pin=IC3-8
+Removed Pin From Net: NetName=3V3 Pin=R8-2
+Removed Pin From Net: NetName=3V3 Pin=R13-2
+Removed Pin From Net: NetName=3V3 Pin=R14-2
+Removed Member From Class: ClassName=Debugger Member=C43
+Removed Member From Class: ClassName=Debugger Member=IC3
+Removed Member From Class: ClassName=Debugger Member=R8
+Removed Member From Class: ClassName=Debugger Member=R13
+Removed Member From Class: ClassName=Debugger Member=R14
+Removed Member From Class: ClassName=Debugger Member=R15
+Change Component Comment : Designator=R23 Old Comment=100K New Comment=0
