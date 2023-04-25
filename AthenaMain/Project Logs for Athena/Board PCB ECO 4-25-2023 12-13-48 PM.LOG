@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=VBAT Pin=Q1-3
+Added Component: Designator=S1(CFS0101TB)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://au.mouser.com/datasheet/2/972/cfs-1628139.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "4mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "NIDEC COPAL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CFS-0101TB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "229-CFS-0101TB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Nidec-Copal/CFS-0101TB?qs=XeJtXLiO41RUoaDpyshzOQ%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VBAT Pin=S1-1
+Added Pin To Net: NetName=NetQ1_3 Pin=Q1-3
+Added Pin To Net: NetName=NetQ1_3 Pin=S1-2
+Added Net: Name=NetQ1_3
+Added Member To Class: ClassName=Power Member=Component S1 CFS-0101TB

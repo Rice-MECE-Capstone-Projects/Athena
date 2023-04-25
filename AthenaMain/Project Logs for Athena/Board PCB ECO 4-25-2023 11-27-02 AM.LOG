@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=GND Pin=C19-1
+Removed Pin From Net: NetName=WAKE Pin=C19-2
+Removed Pin From Net: NetName=WAKE Pin=SW1-1
+Removed Pin From Net: NetName=GND Pin=SW1-2
+Removed Member From Class: ClassName=Main Member=C19
+Removed Member From Class: ClassName=Main Member=SW1
