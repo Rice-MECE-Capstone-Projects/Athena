@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=SCL Pin=JP2-5
+Removed Pin From Net: NetName=SDA Pin=JP2-6
+Change Component Designator: OldDesignator=JP2 NewDesignator=a

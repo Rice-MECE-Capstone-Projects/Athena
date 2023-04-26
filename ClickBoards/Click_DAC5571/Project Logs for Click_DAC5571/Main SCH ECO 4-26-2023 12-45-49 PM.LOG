@@ -1,0 +1,3 @@
+Remove Pin=JP2-5 From Net=SCL
+Remove Pin=JP2-6 From Net=SDA
+Change Component Designator: OldDesignator=JP2 NewDesignator=a

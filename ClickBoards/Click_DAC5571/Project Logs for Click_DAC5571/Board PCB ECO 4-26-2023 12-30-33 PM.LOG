@@ -1,0 +1,75 @@
+Added Component: Designator=C1(C 0805_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "唯一出售店铺网址"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "淘宝ID"; Value = "封装库来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系售后，技术支持"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=C2(C 0805_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "唯一出售店铺网址"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "淘宝ID"; Value = "封装库来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系售后，技术支持"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=IC1(SOT95P280X145-6N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "DAC5571IDBVR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/dac5571idbvr/texas-instruments?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.ti.com/lit/gpn/DAC5571"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.45mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "DAC5571IDBVR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "595-DAC5571IDBVR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/DAC5571IDBVR?qs=vul0MlC%2Fa1d8ma5XBaLG%252Bg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=JP1(XH2.54-WI-8P)
+Add component (AddParameter): Name = "BOM名称"; Value = "8P接插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "封装库来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Added Component: Designator=JP2(XH2.54-WI-8P)
+Add component (AddParameter): Name = "BOM名称"; Value = "8P接插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "封装库来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Added Component: Designator=JP3(XH2.54-WI-2P)
+Add component (AddParameter): Name = "BOM名称"; Value = "2P接插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "封装库来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系售后"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=R1(R 0805_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装库来自淘宝卖家 ID：黄晶宝石"; Value = "其他店铺购入均为盗版，不享受售后技术支持服务，请立即申请退款"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系售后"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Component: Designator=R2(R 0805_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装库来自淘宝卖家 ID：黄晶宝石"; Value = "其他店铺购入均为盗版，不享受售后技术支持服务，请立即申请退款"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "联系售后"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=IC1-2
+Added Pin To Net: NetName=GND Pin=JP1-8
+Added Pin To Net: NetName=GND Pin=JP2-8
+Added Pin To Net: NetName=GND Pin=JP3-2
+Added Pin To Net: NetName=GND Pin=R1-2
+Added Pin To Net: NetName=A0 Pin=IC1-6
+Added Pin To Net: NetName=A0 Pin=R1-1
+Added Pin To Net: NetName=A0 Pin=R2-1
+Added Net: Name=A0
+Added Pin To Net: NetName=SCL Pin=IC1-5
+Added Pin To Net: NetName=SCL Pin=JP2-5
+Added Net: Name=SCL
+Added Pin To Net: NetName=SDA Pin=IC1-4
+Added Pin To Net: NetName=SDA Pin=JP2-6
+Added Net: Name=SDA
+Added Pin To Net: NetName=VDD Pin=C1-2
+Added Pin To Net: NetName=VDD Pin=C2-2
+Added Pin To Net: NetName=VDD Pin=IC1-3
+Added Pin To Net: NetName=VDD Pin=JP1-7
+Added Pin To Net: NetName=VDD Pin=R2-2
+Added Net: Name=VDD
+Added Pin To Net: NetName=VOUT Pin=IC1-1
+Added Pin To Net: NetName=VOUT Pin=JP3-1
+Added Net: Name=VOUT
+Added Member To Class: ClassName=Main Member=Component C1 10uF
+Added Member To Class: ClassName=Main Member=Component C2 0.1uF
+Added Member To Class: ClassName=Main Member=Component IC1 DAC5571IDBVR
+Added Member To Class: ClassName=Main Member=Component JP1 HDR-1X8
+Added Member To Class: ClassName=Main Member=Component JP2 HDR-1X8
+Added Member To Class: ClassName=Main Member=Component JP3 HDR-1X2
+Added Member To Class: ClassName=Main Member=Component R1 0
+Added Member To Class: ClassName=Main Member=Component R2 NC
