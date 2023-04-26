@@ -1,0 +1,5 @@
+bsp.dir=bsp
+eclipse.preferences.version=1
+metal-source-path=freedom-metal
+parent.ip.sdk=C\:\\FreedomStudio\\SiFive\\freedom-e-sdk-v20.08.00.00
+venv.path=venv

@@ -1,0 +1,3 @@
+16:19:52 **** Incremental Build of configuration debug for project sifive_hifive1_revb_sifive_welcome ****
+make all CONFIGURATION=debug 
+which: no freedom-metal_header-generator in (/c/FreedomStudio/SiFive/sdk-utilities-1.0.1-2020.12.1:/usr/bin:/c/FreedomStudio/SiFive/riscv64-unknown-elf-toolchain-10.2.0-2020.12.8/bin:/c/FreedomStudio/jre/bin/server:/c/FreedomStudio/jre/bin:/c/Windows/system32:/c/Windows:/c/Windows/System32/Wbem:/c/Windows/System32/WindowsPowerShell/v1.0:/c/Windows/System32/OpenSSH:/c/Program Files/Git/cmd:/c/Program Files/Bandizip:/c/Users/nandg/AppData/Local/Microsoft/WindowsApps:/c/FreedomStudio)
