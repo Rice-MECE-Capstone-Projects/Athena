@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=JP2 Old Footprint=HDR2.54-M-LI-8P New Footprint=HDR2.54-LI-10P
+Change Component Comment : Designator=JP2 Old Comment=HDR-1X8 New Comment=HDR-1X10
+Added Pin To Net: NetName=UART0_RX Pin=JP2-9
+Added Pin To Net: NetName=UART0_TX Pin=JP2-10

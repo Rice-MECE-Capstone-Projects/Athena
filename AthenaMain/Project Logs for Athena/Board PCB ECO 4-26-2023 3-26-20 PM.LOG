@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=IO9 Pin=JP2-1
+Removed Pin From Net: NetName=RST Pin=JP2-2
+Removed Pin From Net: NetName=SPI_CS0 Pin=JP2-3
+Removed Pin From Net: NetName=SPI_SCK Pin=JP2-4
+Removed Pin From Net: NetName=SPI_MISO Pin=JP2-5
+Removed Pin From Net: NetName=SPI_MOSI Pin=JP2-6
+Removed Pin From Net: NetName=3V3 Pin=JP2-7
+Removed Pin From Net: NetName=GND Pin=JP2-8
+Change Component Footprint: Designator=JP2 Old Footprint=HDR2.54-M-LI-8P New Footprint=HDR2.54-LI-10P
+Change Component Comment : Designator=JP2 Old Comment=HDR-1X8 New Comment=HDR-1X10
+Added Pin To Net: NetName=UART0_TX Pin=JP2-1
+Added Pin To Net: NetName=UART0_RX Pin=JP2-2
+Added Pin To Net: NetName=IO9 Pin=JP2-3
+Added Pin To Net: NetName=RST Pin=JP2-4
+Added Pin To Net: NetName=SPI_CS0 Pin=JP2-5
+Added Pin To Net: NetName=SPI_SCK Pin=JP2-6
+Added Pin To Net: NetName=SPI_MISO Pin=JP2-7
+Added Pin To Net: NetName=SPI_MOSI Pin=JP2-8
+Added Pin To Net: NetName=3V3 Pin=JP2-9
+Added Pin To Net: NetName=GND Pin=JP2-10
