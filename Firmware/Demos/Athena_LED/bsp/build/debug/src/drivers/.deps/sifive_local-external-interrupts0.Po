@@ -1,0 +1,4 @@
+src/drivers/sifive_local-external-interrupts0.o: \
+ C\:/Users/nandg/Desktop/FE310-G003/sifive_hifive1_revb_sifive_welcome/freedom-metal/src/drivers/sifive_local-external-interrupts0.c \
+ metal/machine/platform.h
+metal/machine/platform.h:

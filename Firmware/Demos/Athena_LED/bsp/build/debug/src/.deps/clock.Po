@@ -1,0 +1,6 @@
+src/clock.o: \
+ C\:/Users/nandg/Desktop/FE310-G003/sifive_hifive1_revb_sifive_welcome/freedom-metal/src/clock.c \
+ C\:/Users/nandg/Desktop/FE310-G003/sifive_hifive1_revb_sifive_welcome/freedom-metal/metal/clock.h \
+ c\:\freedomstudio\sifive\riscv64-unknown-elf-toolchain-10.2.0-2020.12.8\lib\gcc\riscv64-unknown-elf\10.2.0\include\stddef.h
+C\:/Users/nandg/Desktop/FE310-G003/sifive_hifive1_revb_sifive_welcome/freedom-metal/metal/clock.h:
+c\:\freedomstudio\sifive\riscv64-unknown-elf-toolchain-10.2.0-2020.12.8\lib\gcc\riscv64-unknown-elf\10.2.0\include\stddef.h:

@@ -1,0 +1,4 @@
+src/init.o: \
+ C\:/Users/nandg/Desktop/FE310-G003/sifive_hifive1_revb_sifive_welcome/freedom-metal/src/init.c \
+ C\:/Users/nandg/Desktop/FE310-G003/sifive_hifive1_revb_sifive_welcome/freedom-metal/metal/init.h
+C\:/Users/nandg/Desktop/FE310-G003/sifive_hifive1_revb_sifive_welcome/freedom-metal/metal/init.h:
