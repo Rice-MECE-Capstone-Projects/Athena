@@ -3,7 +3,7 @@
 
 #include <stdio.h>      // Include Serial Library
 #include <time.h>       // Time-related features
-#include <metal/gpio.h> // SiFive’s GPIO library
+#include <metal/gpio.h> // SiFive GPIO library
 
 #define STARTUP_DELAY_US (1000000)
 #define DWELL_TIME_US (10000)
