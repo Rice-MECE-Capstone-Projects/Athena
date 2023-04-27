@@ -291,3 +291,5 @@ Here are the improvements to the Athena board.
     ```
     
 3. When we finish the PCB soldering and pass the hardware test then we will continue to develop the firmware/software part.
+
+updated date 4/27
