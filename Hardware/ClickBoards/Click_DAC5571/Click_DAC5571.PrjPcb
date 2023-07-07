@@ -136,6 +136,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document6]
+DocumentPath=Job1.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for Athena_V1_0\Assembly Testpoint Report for Board.ipc
 DItemRevisionGUID=
@@ -153,110 +170,130 @@ DocumentPath=Project Outputs for Athena_V1_0\Board.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for Athena_V1_0\Board.EXTREP
+DocumentPath=Project Outputs for Click_DAC5571\NC Drill\Board.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for Athena_V1_0\Board.GBL
+DocumentPath=Project Outputs for Athena_V1_0\Board.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for Athena_V1_0\Board.GBO
+DocumentPath=Project Outputs for Click_DAC5571\GerberX2\Board.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for Athena_V1_0\Board.GBP
+DocumentPath=Project Outputs for Athena_V1_0\Board.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for Athena_V1_0\Board.GBS
+DocumentPath=Project Outputs for Athena_V1_0\Board.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for Athena_V1_0\Board.GD1
+DocumentPath=Project Outputs for Athena_V1_0\Board.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for Athena_V1_0\Board.GG1
+DocumentPath=Project Outputs for Athena_V1_0\Board.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for Athena_V1_0\Board.GKO
+DocumentPath=Project Outputs for Athena_V1_0\Board.GD1
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for Athena_V1_0\Board.GM
+DocumentPath=Project Outputs for Athena_V1_0\Board.GG1
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for Athena_V1_0\Board.GM1
+DocumentPath=Project Outputs for Athena_V1_0\Board.GKO
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for Athena_V1_0\Board.GM13
+DocumentPath=Project Outputs for Athena_V1_0\Board.GM
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs for Athena_V1_0\Board.GM15
+DocumentPath=Project Outputs for Athena_V1_0\Board.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Outputs for Athena_V1_0\Board.GP1
+DocumentPath=Project Outputs for Athena_V1_0\Board.GM13
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Project Outputs for Athena_V1_0\Board.GP2
+DocumentPath=Project Outputs for Athena_V1_0\Board.GM15
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=Project Outputs for Athena_V1_0\Board.GPB
+DocumentPath=Project Outputs for Athena_V1_0\Board.GP1
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=Project Outputs for Athena_V1_0\Board.GPT
+DocumentPath=Project Outputs for Athena_V1_0\Board.GP2
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=Project Outputs for Athena_V1_0\Board.GTL
+DocumentPath=Project Outputs for Athena_V1_0\Board.GPB
 DItemRevisionGUID=
 
 [GeneratedDocument22]
-DocumentPath=Project Outputs for Athena_V1_0\Board.GTO
+DocumentPath=Project Outputs for Athena_V1_0\Board.GPT
 DItemRevisionGUID=
 
 [GeneratedDocument23]
-DocumentPath=Project Outputs for Athena_V1_0\Board.GTP
+DocumentPath=Project Outputs for Athena_V1_0\Board.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument24]
-DocumentPath=Project Outputs for Athena_V1_0\Board.GTS
+DocumentPath=Project Outputs for Athena_V1_0\Board.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument25]
-DocumentPath=Project Outputs for Athena_V1_0\Board.LDP
+DocumentPath=Project Outputs for Athena_V1_0\Board.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument26]
-DocumentPath=Project Outputs for Athena_V1_0\Board.REP
+DocumentPath=Project Outputs for Athena_V1_0\Board.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument27]
-DocumentPath=Project Outputs for Athena_V1_0\Board.RUL
+DocumentPath=Project Outputs for Athena_V1_0\Board.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument28]
-DocumentPath=Project Outputs for Athena\Design Rule Check - Board.html
+DocumentPath=Project Outputs for Click_DAC5571\NC Drill\Board.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument29]
-DocumentPath=Project Outputs for Athena_V1_0\Design Rule Check - Board.html
+DocumentPath=Project Outputs for Athena_V1_0\Board.REP
 DItemRevisionGUID=
 
 [GeneratedDocument30]
-DocumentPath=Project Outputs for Click_DAC5571\Design Rule Check - Board.html
+DocumentPath=Project Outputs for Click_DAC5571\GerberX2\Board.REP
 DItemRevisionGUID=
 
 [GeneratedDocument31]
+DocumentPath=Project Outputs for Athena_V1_0\Board.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument32]
+DocumentPath=Project Outputs for Click_DAC5571\NC Drill\Board.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument33]
+DocumentPath=Project Outputs for Athena\Design Rule Check - Board.html
+DItemRevisionGUID=
+
+[GeneratedDocument34]
+DocumentPath=Project Outputs for Athena_V1_0\Design Rule Check - Board.html
+DItemRevisionGUID=
+
+[GeneratedDocument35]
+DocumentPath=Project Outputs for Click_DAC5571\Design Rule Check - Board.html
+DItemRevisionGUID=
+
+[GeneratedDocument36]
 DocumentPath=Project Outputs for Athena_V1_0\Fabrication Testpoint Report for Board.ipc
 DItemRevisionGUID=
 
