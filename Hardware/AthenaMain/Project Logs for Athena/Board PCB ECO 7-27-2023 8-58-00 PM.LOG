@@ -1,0 +1,37 @@
+Removed Pin From Net: NetName=PWM Pin=JP1-1
+Removed Pin From Net: NetName=IO1 Pin=JP1-2
+Removed Pin From Net: NetName=HF_U1_RX Pin=JP1-3
+Removed Pin From Net: NetName=HF_U1_TX Pin=JP1-4
+Removed Pin From Net: NetName=I2C_SCL Pin=JP1-5
+Removed Pin From Net: NetName=I2C_SDA Pin=JP1-6
+Removed Pin From Net: NetName=V_BUS Pin=JP1-7
+Removed Pin From Net: NetName=GND Pin=JP1-8
+Removed Member From Class: ClassName=Main Member=JP1
+Change Component Footprint: Designator=C35 Old Footprint=C0603_NS New Footprint=CAPC1608X90X40NL10T20
+Change Component Comment : Designator=C35 Old Comment=100nF New Comment=Capacitor 100 nF +/-10% 50 V 0603
+Change Component Designator: OldDesignator=* NewDesignator=JP1
+Change Managed Component Library Link : Designator=C35 Old VaultGUID= New VaultGUID=1A22A19C-6971-4F6F-8157-9A546F586D31 Old ItemGUID= New ItemGUID=67DE6D27-6F75-42C8-9DC9-15064B273320 Old RevisionGUID= New RevisionGUID=79022C91-FE26-4BF6-8577-81B411638A2B
+Change component parameters: Designator = "C35" ("C35"); Footprint = "C0603_NS"; UniqueID = "\XROFXFGP" ("\XROFXFGP")
+Change component parameters (AddParameter): Name = "Capacitor Type"; Value = "Ceramic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "SM"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ripple Current"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ripple Current (AC)"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = "True"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=PWM Pin=JP1-1
+Added Pin To Net: NetName=IO1 Pin=JP1-2
+Added Pin To Net: NetName=HF_U1_RX Pin=JP1-3
+Added Pin To Net: NetName=HF_U1_TX Pin=JP1-4
+Added Pin To Net: NetName=I2C_SCL Pin=JP1-5
+Added Pin To Net: NetName=I2C_SDA Pin=JP1-6
+Added Pin To Net: NetName=V_BUS Pin=JP1-7
+Added Pin To Net: NetName=GND Pin=JP1-8
+Added Room: Name=Debugger
+Added Room: Name=Main
+Added Room: Name=Power
